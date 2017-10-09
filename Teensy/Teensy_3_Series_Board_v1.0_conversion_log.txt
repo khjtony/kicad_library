@@ -1,0 +1,19 @@
+
+#********** START OF eagle-lbr2kicad-1.0.ulp 2.3 02-11-2016 :21:33:03 LOG **********#
+Missing Prefix Part =''				TEENSY_3.0+4					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0+4-PGM					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0+4-PGM-VIN					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_ALLANALOG					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_ALLANALOG-PGM					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_ALLANALOG-PGM-VIN					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_ALLPINS					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_ALLPINS-PGM					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_ALLPINS-PGM-VIN					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_BASIC					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.0_BASIC-PGM					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.1+4					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.1_ALLPINS					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.1_ALLPINS-VIN					Teensy_3_Series_Board_v1.0		M
+Missing Prefix Part =''				TEENSY_3.1_BASIC					Teensy_3_Series_Board_v1.0		M
+#********** END OF eagle-lbr2kicad-1.0.ulp 2.3 02-11-2016 :21:33:03 LOG **********#
+

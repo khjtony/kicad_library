@@ -1,0 +1,8 @@
+(module TO-247-Heatsink (layer F.Cu) (tedit 59B73A18)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TO-247-Heatsink (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+)

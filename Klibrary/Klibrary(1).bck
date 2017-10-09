@@ -1,0 +1,41 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DS3231
+D DS3231 Extremely accurate RTC
+K RTC, DS3231
+$ENDCMP
+#
+$CMP LM1496
+D Balanced Modulator/Demodulator
+$ENDCMP
+#
+$CMP LM3086
+D LM3086 Transistor Arrays
+$ENDCMP
+#
+$CMP LM3478
+D LM3478 Regulator
+K Boost, step up, High current, TI, SOIC-8
+$ENDCMP
+#
+$CMP MCP3426
+D MCP 16Bit 2CH ADC in I2c
+K MCP, 16Bit, 2CH, ADC, I2C
+$ENDCMP
+#
+$CMP PCF8563
+D PCF8563 RTC from NXP
+K NXP
+$ENDCMP
+#
+$CMP SN65HVD96D
+D SN65HVD96 CAN transceiver
+K CAN Transceiver
+$ENDCMP
+#
+$CMP TL082
+D TI, JFET OPMAP
+K OPMAP, JFET
+$ENDCMP
+#
+#End Doc Library

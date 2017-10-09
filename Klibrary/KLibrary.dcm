@@ -1,0 +1,179 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002
+D 60V Vds, 0.115A Id, N-channel MOSFET, SOT-23
+K N-Channel Switching MOSFET
+F https://www.fairchildsemi.com/datasheets/2N/2N7002.pdf
+$ENDCMP
+#
+$CMP 9900_Tiny_Relay
+D Tiny Relay, COTO Tech, 9900 Series, 250mA
+$ENDCMP
+#
+$CMP ACS722
+D ACS722 hall effect current sensor
+$ENDCMP
+#
+$CMP ACS724
+D ACS742 hall effect current sensor
+$ENDCMP
+#
+$CMP AD8208
+D Step-down buck switch regulator, 500mA
+K Step-down, regulator
+F http://www.ti.com/lit/ds/symlink/lm2674.pdf
+$ENDCMP
+#
+$CMP AD8332
+D AD8332, Dual-channel PGA, W/LNA, super low noise
+K Dual-channel PGA
+$ENDCMP
+#
+$CMP ADG704
+D ADG704 Analog 4:1 analog switch
+K MUX, Switch
+$ENDCMP
+#
+$CMP CY62148E
+D REPROM 4M x  8 bits (32 pins SOIC)
+K SRAM 4Mx8bits
+F http://www.cypress.com/file/43851/download
+$ENDCMP
+#
+$CMP CY8C5888LTI-LP097
+D Cypress PSoC 5LP CY8C5888LTI-LP097, Used on PSoC 5LP Prototyping board
+$ENDCMP
+#
+$CMP CY8C5888LTI-LP097-68QFN
+D Cypress PSoC 5LP CY8C5888LTI-LP097, Used on PSoC 5LP Prototyping board
+$ENDCMP
+#
+$CMP DACx311
+D TI DAC 
+K DAC
+$ENDCMP
+#
+$CMP FAN3111E
+D IGBT Driver 0~20V. HI will be 38% of Vref, Vref max=5.5V
+$ENDCMP
+#
+$CMP IGBT-SOT-227B
+D 50V Vds, 0.22A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET Logic Level
+F http://www.fairchildsemi.com/ds/BS/BSS138.pdf
+$ENDCMP
+#
+$CMP ISL60002
+D ISL600002 Voltage reference
+$ENDCMP
+#
+$CMP L01Z***S05
+D TAMURA L01Z***S05 Hall current Sensor
+$ENDCMP
+#
+$CMP LM158
+D op amp 1.1MHz 0.6V/us
+$ENDCMP
+#
+$CMP LM2674
+D 28V High Common-Mode Voltage, Single-Supply Difference Amplifier, 10V/V x 2V/V adjustable gain, bandwidth 50kHz, Vcc=3.5V~12V, unidirectional
+K highside HS current sense amplifier linear buffered monitor preamp
+F http://www.analog.com/media/en/technical-documentation/data-sheets/AD8202.pdf
+$ENDCMP
+#
+$CMP LM4040
+D TI Voltage reference
+$ENDCMP
+#
+$CMP MCP9701
+D MCP9701 Aanlog Temperature Sensor
+$ENDCMP
+#
+$CMP NC7SZ175
+D D-flip flop
+$ENDCMP
+#
+$CMP NC7SZ332
+D 3 input or gate
+$ENDCMP
+#
+$CMP NC7WZ14
+D dual inv gate
+$ENDCMP
+#
+$CMP PCA9515A
+D I2C isolator/bridge
+$ENDCMP
+#
+$CMP PCA9515AD
+D PCA9515 I2C repeater
+K I2C, Repeater, buffer
+$ENDCMP
+#
+$CMP PSOC4200M_64TQFP
+D PSoC4247-M485
+K CAN enabled, 64TQFP
+$ENDCMP
+#
+$CMP SN65HVD96
+D SN65HVD96 SymPol Transceiver, can be used on Power-over-line application
+K SN65HVD96, CAN, RS-485, POL
+$ENDCMP
+#
+$CMP TCA9406
+D i2c level shifter
+$ENDCMP
+#
+$CMP TPS62175
+D 500 mA Switch Regulator, fixed 5V, WSON8
+K 500mA Switch regulator, WSON8
+F http://www.ti.com/lit/ds/symlink/tps62173.pdf
+$ENDCMP
+#
+$CMP TPS77701D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Adjustable Output 1.5-5.5V, SOIC8
+K 750mA LDO Regulator Adjustable Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77715D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 1.5V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77718D
+D TEXAS SWITCH REGULATOR 
+K 500mA 3V to 17V input
+F http://www.ti.com/lit/ds/symlink/tps62173.pdf
+$ENDCMP
+#
+$CMP TPS77725D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 2.5V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TPS77733D
+D 750 mA Fast-Transient Low Dropout Voltage Regulator, Fixed Output 3.3V, SOIC8
+K 750mA LDO Regulator Fixed Positive
+F http://www.ti.com/lit/ds/symlink/tps77725.pdf
+$ENDCMP
+#
+$CMP TS5A3357
+D 3:1 MUX/DEMUX, SWITCH
+$ENDCMP
+#
+$CMP VL53L0X
+D ST VL53L0X
+$ENDCMP
+#
+$CMP tps62153A
+D 3V~17V buck down converter, 5V/3.3V fixed
+$ENDCMP
+#
+$CMP variable_regulator
+D eBoot Mini MP1584EN DC-DC Buck Converter Adjustable Power Step Down Module 24V to 12V 9V 5V 3V, 6 Pack
+$ENDCMP
+#
+#End Doc Library
